@@ -17,7 +17,7 @@ Customer churn prediction is a critical task for businesses to identify customer
 ## Goal
 The goal of the project is to create a logistic predictive model using data science techniques. The model will predict the likelihood of a customer churning based on various customer behavior. 
 
-SMART Goal: 
+
 
 Specific: Build a machine learning model to predict customer churn based on available customer behavior data. 
 
