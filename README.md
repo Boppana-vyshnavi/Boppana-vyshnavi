@@ -4,6 +4,7 @@ This repository contains the code and resources for a Customer Churn Prediction 
 # Project overview
 Customer churn prediction is a critical task for businesses to identify customers who are likely to leave their service and take proactive measures to retain them. This project utilizes data analysis and machine learning techniques to classify customers based on their likelihood to churn.
 ## Table of Contents
+- [Goal](#goal)
 - [Installation](#installation)
 - [Key features](#Keyfeatures)
 - [data](#data)
@@ -11,7 +12,20 @@ Customer churn prediction is a critical task for businesses to identify customer
 - [Results](#results)
 - [Challenges and Limitations](#ChallengesandLimitations)
 - [Recommendations and Future Scope](#RecommendationsandFutureScope)
--  [future work](#futurework)
+- [future work](#futurework)
+
+## Goal
+The goal of the project is to create a logistic predictive model using data science techniques. The model will predict the likelihood of a customer churning based on various customer behavior. 
+
+SMART Goal: 
+
+Specific: Build a machine learning model to predict customer churn based on available customer behavior data. 
+
+Measurable: Achieve a predictive accuracy of 85% on validation data. 
+
+Assignable: One data scientist (the student) will be responsible for the project. 
+
+Realistic: The project will use existing customer data and be implemented with available resources and tools (e.g., Python, Scikit-learn). 
 
 ## Installation
 **application** | **libraries**
