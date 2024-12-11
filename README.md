@@ -9,7 +9,7 @@ Customer churn prediction is a critical task for businesses to identify customer
 - [data](#data)
 - [Model Performance Metrics](modelperformancemetrics)
 - [Results](#results)
-- [Challenges and Limitations](#Challenges and Limitations)
+- [Challenges and Limitations](#ChallengesandLimitations)
 - [Recommendations and Future Scope](#RecommendationsandFutureScope)
 -  [future work](#futurework)
 
